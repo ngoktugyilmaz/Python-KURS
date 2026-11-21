@@ -5,3 +5,4 @@
 # Hafta2
  Yapılanlar:
  [https://colab.research.google.com/drive/1yI-bD0Mv0vnJvvQKYlWQHEZIT5KBQuVt]
+#Hafta 3
