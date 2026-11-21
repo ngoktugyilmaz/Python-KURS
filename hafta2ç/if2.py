@@ -1,0 +1,7 @@
+ortalama=int(input("Ders not ortalaman nedir? "))
+if ortalama>100:print("Hatalı not yazımı")
+elif ortalama>=90:print("Süper")
+elif 90>ortalama>70:print("Çok iyi")
+elif 70>=ortalama>49:print("Geçtin")
+elif 49>=ortalama>=0:print("Kaldın")
+elif ortalama<0:print("Hatalı not yazımı")
